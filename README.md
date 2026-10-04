@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze passenger trips, passenger
 
 ## Dashboard
 
-![Report Preview](report image.png)
+![Report Preview]([report image.png](https://github.com/fatimasadikhova/Baku-Public-Transport-Analytics/blob/main/report%20image.png))
 
 ## Key Metrics
 
