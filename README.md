@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard designed to analyze passenger trips, passenger flow across public transport modes, and payment methods in Baku.
 
-## Dashboard
+## Report
 
 ![Report Preview](https://raw.githubusercontent.com/fatimasadikhova/Baku-Public-Transport-Analytics/main/report%20image.png)
 
